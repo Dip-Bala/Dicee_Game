@@ -28,6 +28,18 @@ p {
   font-family: 'Indie Flower', cursive;
 }
 
+#refreshButton{
+  background-color: #393E46;
+  border: none;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #4ECCA3;
+  display: block;
+  padding: 7% 39%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+
+}
 img {
   width: 80%;
 }
